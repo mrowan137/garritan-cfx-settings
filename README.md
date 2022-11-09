@@ -1,6 +1,6 @@
 # Garritan-CFX-settings
 
-Settings I am using for Garritan Abbey Road Studios CFX VST: [download](https://github.com/mrowan137/Garritan-CFX-settings/raw/main/Garritan_CFX_settings.aria).
+Settings I am using for Garritan Abbey Road Studios CFX VST: [Garritan_CFX_settings.aria](https://github.com/mrowan137/Garritan-CFX-settings/raw/main/Garritan_CFX_settings.aria).
 
 Currently I am following settings described in [this tutorial](https://www.pianistkeunyoungsong.com/2022/04/how-to-make-garritan-cfx-sounds-better.html), with volume faders set to 0dB.
 
