@@ -1,4 +1,4 @@
-# Garritan-CFX-settings
+# Garritan CFX settings
 
 Settings I am using for Garritan Abbey Road Studios CFX VST: [Garritan_CFX_settings.aria](https://github.com/mrowan137/Garritan-CFX-settings/raw/main/Garritan_CFX_settings.aria).
 
