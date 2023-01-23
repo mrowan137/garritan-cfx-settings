@@ -5,8 +5,8 @@ I mostly follow settings described in [this tutorial](https://www.pianistkeunyou
 
 
 ## Contents
-* [Garritan_CFX_settings_01-22-2023.aria](https://github.com/mrowan137/garritan-cfx-settings/blob/main/cfx_configs/Garritan_CFX_settings_01_22_2023.aria?raw=true).
-* [Garritan_CFX_settings_01-22-2023.aria](https://github.com/mrowan137/garritan-cfx-settings/blob/main/cfx_configs/Garritan_CFX_settings_11_11_2022.aria?raw=true).
+* [Garritan_CFX_settings_01-22-2023.aria](https://github.com/mrowan137/garritan-cfx-settings/blob/main/cfx_configs/Garritan_CFX_settings_01-22-2023.aria?raw=true)
+* [Garritan_CFX_settings_11-11-2022.aria](https://github.com/mrowan137/garritan-cfx-settings/blob/main/cfx_configs/Garritan_CFX_settings_11-11-2022.aria?raw=true)
 
 
 ## Tips
