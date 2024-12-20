@@ -11,10 +11,11 @@ I mostly follow settings described in [this tutorial](https://www.pianistkeunyou
 
 ## Tips
 * If you're looking into Garritan CFX configurations and also a user of GarageBand, then it's possible you may be interested in converting AIFF audio to MIDI format. There is a very useful tool [GB2MIDI](https://github.com/larkob/GB2MIDI) that allows to do that conversion, which you can do [here](https://larkob.github.io/GB2MIDI/index.html).
-* Sampling rate on some smartphones is not constant, which can lead to audio drift when exporting from video editing software. Depending on the device and video editing software, the effect can be improved somewhat by resampling the audio rate.
+* Sampling rate on some smartphones is not constant, which can lead to audio drift when exporting from video editing software. The effect can be improved by resampling the video at a constant frame rate, which can be done with e.g. [HandBrake](https://github.com/HandBrake/HandBrake).
 
 
 ## References
 * [https://www.pianistkeunyoungsong.com/2022/04/how-to-make-garritan-cfx-sounds-better.html](https://www.pianistkeunyoungsong.com/2022/04/how-to-make-garritan-cfx-sounds-better.html)
 * [https://www.garritan.com/products/cfx-concert-grand-virtual-piano/](https://www.garritan.com/products/cfx-concert-grand-virtual-piano/)
 * [https://github.com/larkob/GB2MIDI](https://github.com/larkob/GB2MIDI)
+* [https://handbrake.fr/](https://handbrake.fr/)
